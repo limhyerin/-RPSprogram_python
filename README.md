@@ -9,8 +9,8 @@
 8) 유저가 "종료"를 입력시 break를 이용해 프로그램 종료
 
 
-# 소스코드(Sorce Code)
+# Sorce Code
 ![image](https://user-images.githubusercontent.com/70150896/199137329-ef66a304-8826-4232-99f6-6e386f377841.png)
 
-# 결과(Result)
+# Result
 ![image](https://user-images.githubusercontent.com/70150896/199137440-d01f2ea2-b731-487d-84ee-4ce0b34d2565.png)
